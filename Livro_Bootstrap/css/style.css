@@ -1,0 +1,82 @@
+body{
+    background-color: darkred;
+}
+.lulu{
+    font-size: 1.5em;
+}
+
+.sombra{
+    text-shadow: 2px 2px 5px #000000;
+}
+
+p{
+    margin-bottom: 3%
+}
+
+.espaço-cima{
+    margin-top: 3%;
+}
+.espaco{
+    padding-top: 2%;
+}
+
+.esquerda{
+    padding-left: 4.5%;
+}
+
+.imagemdra{
+    width: 100%;
+    text-align: center;
+    border-radius: 40PX;
+    box-shadow: 20px 20px 15px none;
+}
+
+section{
+    background-color: white; 
+    padding: 0.75%;
+    margin: 2%; 
+    border-radius: 40PX;
+    box-shadow: 20px 20px 15px none;
+}
+
+
+.imagemberk
+{
+    width: 100%;
+    text-align: center;
+    border-radius: 40PX;
+    box-shadow: 20px 20px 15px none;
+}
+
+.espaco-h1{
+    padding-top: 1%;
+}
+
+.espaço-baixo{
+    padding-top: 5%;
+    padding-left: 4.5%;
+}
+
+
+
+footer{
+    background-color: darkred;
+    text-align: center;
+    width: 100%;
+}
+
+
+h1{
+    margin-bottom: 1.5%;
+    color: black;
+
+}
+
+h3{
+    color:  red;
+}
+
+h4{
+    color:  red;
+    margin-top: 5%;
+}
